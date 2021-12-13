@@ -1,0 +1,27 @@
+Log Time and Date of Quiz.
+Username will be added by Kendall
+
+Logged time = 20:24:40.62 23-06-2020 - Log From Laptop, Kendall
+Logged time = 15:37:27.19 27-06-2020 - Log From Laptop, Kendall
+Logged time = 15:39:52.96 27-06-2020 - Log From Laptop, Kendall
+Logged time = 20:16:45.10 28-06-2020 - Log From Laptop, Kendall
+Logged time = 15:07:45.47 01-07-2020 - Log From Laptop, Kendall
+Logged time = 15:09:13.81 01-07-2020 - Log From Laptop, Kendall
+Logged time = 11:50:23.06 18-07-2020 - Log From Laptop, Kendall
+Logged time = 13:21:39.79 Fri 09/18/2020
+Logged time = 12:29:19.99 10-Oct-20
+Logged time = 20:59:39.63 13-Feb-21
+Logged time = 21:51:48.50 13-Feb-21
+Logged time = 21:56:39.47 13-Feb-21
+Logged time = 16:23:38.30 Mon 04/12/2021
+Logged time = 16:24:05.58 Mon 04/12/2021
+Logged time = 14:04:38.93 Thu 06/03/2021
+Logged time = 14:10:02.97 Thu 06/03/2021
+Logged time = 14:10:35.55 Thu 06/03/2021
+Logged time = 14:11:50.47 Thu 06/03/2021
+Logged time = 14:12:10.09 Thu 06/03/2021
+Logged time = 14:12:17.28 Thu 06/03/2021
+Logged time = 14:12:19.27 Thu 06/03/2021
+Logged time = 14:12:26.71 Thu 06/03/2021
+Logged time = 20:10:40.66 13-12-2021
+Logged time = 20:11:50.54 13-12-2021
