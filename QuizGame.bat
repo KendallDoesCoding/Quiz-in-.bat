@@ -108,7 +108,7 @@ echo set password1=%password1%
 goto start1
 
 :Logged In!
-echo You have succesfully logged in. 
+echo You have successfully logged in. 
 echo To go to the menu press any key
 pause >nul
 goto menu
@@ -170,7 +170,7 @@ title Quit
 echo.Quit
 echo ---
 echo.
-echo You have quit succesfully.
+echo You have quit successfully.
 echo If you didnt mean to quit. Its ok just type the level number that you left bymisstake
 echo.
 echo Example
